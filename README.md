@@ -10,5 +10,6 @@ https://drive.google.com/drive/folders/1lkkp--3X1Fw9S2es-Uu_t0or5FZvJeFk?usp=sha
 una vez insertado el archivo sql, se les va a crear un tabla con pokemones ya creados.
 Luego descargar el la carpeta Back desde este repositorio. Y una vez abierto en Visual Studio Code, ejercutarlo en la terminal con el siguiente comando.
 node app.js
-Luego ir al repositorio del angular-pokemon https://github.com/panchosantiago0/angular-pokemon.git, descargarlo y abrirlo en Visual Studio Code, y ejecutar el comando 
+Para el Backend utilizo el programa NodeJs.
+Luego de tener corriendo el Backemd, ir al repositorio del angular-pokemon https://github.com/panchosantiago0/angular-pokemon.git, descargarlo y abrirlo en Visual Studio Code, y ejecutar el comando 
 ng serve
